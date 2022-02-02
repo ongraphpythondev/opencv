@@ -12,5 +12,5 @@ Import the package:
 
 import cv2
 
-All packages contain Haar cascade files. cv2.data.haarcascades can be used as a shortcut to the data folder. For example:
+All packages contain Haar cascade files. cv2.data.haarcascades can be used as a shortcut to the data folder. 
 
